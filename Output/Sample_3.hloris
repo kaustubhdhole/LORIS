@@ -1,0 +1,20 @@
+# =============================== LORIS v1.0 ==============================
+# PPIs Prediction by LORIS
+# Copyrights (c) 2013 ABC Lab @ BITS, Pilani - K.K. Birla Goa Campus, India
+# All Rights Reserved.
+# Mon, 08-Jul-2013, 19:19:29
+# File name: Sample_3.hloris
+#
+#
+5:	TINGKAPIVA YAELIAARIV NALAPNSIAI KLVDDKKAPA AKLDDATEDV 
+PRED	---------- ---------- ---------- ---------- ---------- 
+55:	FNKITSKFAA IFDNGDKEQV AKWVNLAQKE LVIKNFAKLS QSLETLDSQL 
+PRED	--+--++--+ ------+--- ---------+ ---------- ----+--++- 
+105:	NLRTFILGGL KYSAADVACW GALRSNGMCG SIIKNKVDVN VSRWYTLLEM 
+PRED	+++++--+++ +--------- ---+--++++ ---------- --+++++-++ 
+155:	DPIFGEAHDF LSKSLLELK
+PRED	++-------- ---------
+#
+#
+#  END OF FILE
+#
